@@ -7,3 +7,4 @@ sum = num1 + num2
 
 # Display the result
 print("Sum:", sum)
+# This is the code for adding two numbers
